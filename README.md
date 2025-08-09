@@ -1,5 +1,5 @@
 
-# Analog Clock Flutter
+# Analog Clock
 
 Analog Clock Flutter is just an android and ios app that provide analog clock and alarm.
 
@@ -7,7 +7,7 @@ Analog Clock Flutter is just an android and ios app that provide analog clock an
 
  1.  Download or clone this repository
     
-    > git clone https://github.com/febryardiansyah/analog_clock_flutter.git
+    > git clone https://github.com/Dikrey/clock_flutter.git
     
 2. Install dependencies
 
